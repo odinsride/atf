@@ -17,3 +17,4 @@ You'll need to take the following steps to contribute.
 * Select the OOB Automated Testing Application
 * Go back to the standard UI as Test aren't listed in the Studio editor
 * Goto automated test, and create Suites and tests as appropriate
+
