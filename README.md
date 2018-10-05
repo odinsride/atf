@@ -1,4 +1,4 @@
-# OOB Automated Testing ![Discord](https://img.shields.io/discord/289994252241338369.svg) ![Discord Invite](https://img.shields.io/badge/discord-invite-green.svg)
+# OOB Automated Testing ![Discord](https://img.shields.io/discord/289994252241338369.svg) [![Discord Invite](https://img.shields.io/badge/discord-invite-green.svg)](https://discord.gg/QaMwnGd)
 
 OOB Automated Testing is a scoped app to capture tests for all the Out of Box servicenow applications.
 
