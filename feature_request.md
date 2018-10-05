@@ -68,5 +68,10 @@
   - [ ] Coaching Loops
   - [ ] Structured Problem Analysis
 
-**Describe the things needing testing you'd like**
-A clear and concise description of what you want to happen.
+
+**Describe the things needing testing you'd like*
+
+- [ ] Test Thing 1
+- [ ] Test Thing 2
+
+Follow the [contributing guide](https://github.com/jacebenson/x_8821_atf/blob/gh-pages/CONTRIBUTING.md) to contribute.
