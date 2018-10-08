@@ -10,6 +10,82 @@ servicenow applications.
 * Import `https://github.com/jacebenson/x_8821_atf.git` 
   to source control within Studio.
 
+## Features
+
+Tests will exist for and already exist for some of servicenow.
+
+Below is the suite hierarcy.  If checked done.
+
+- [ ] API Testing
+- [ ] HR Service Delivery
+  - [ ] Case and Knowledge
+  - [ ] Employee Service Center
+  - [ ] Enterpise Onboarding and Transistions
+  - [ ] Employee Document
+  - [ ] HR Integrations
+- [ ] Customer Service Management
+  - [ ] Customer Service
+  - [ ] Communities
+  - [ ] Field Service
+- [ ] Governance, Risk , and Compliance (GRC)
+  - [ ] Policy and Compliance
+  - [ ] Risk
+  - [ ] Audit
+  - [ ] Vendor Risk
+- [ ] Software Asset Management
+- [ ] Security Operations
+  - [ ] Security Incident Response
+  - [ ] Vulnerability Response
+  - [ ] Configuration Compliance
+  - [ ] Threat Intelligence
+  - [ ] Trusted Security Circles
+- [ ] IT Business Management
+  - [ ] Project Portfolio
+  - [ ] Financial
+  - [ ] Time Card
+  - [ ] Enterprise Release Management
+  - [ ] Agile Development
+  - [ ] Scaled Agile Frameworkf (SAFe)
+  - [ ] Test Management
+  - [ ] Business Planning Portal
+  - [ ] Cost
+- [ ] IT Operations Management
+  - [ ] Discovery
+  - [ ] Service Mapping
+  - [ ] Event Management
+  - [ ] Operational Intelligence
+  - [ ] Cloud Management
+- [ ] IT Service Management
+  - [ ] Asset
+  - [ ] Contract
+  - [ ] Procurement
+  - [ ] Product Catalog
+  - [ ] Benchmarks
+  - [ ] Change
+  - [ ] Continual Improvement
+  - [ ] Expense Line
+  - [ ] ITSM Virtual Agent
+  - [ ] Walk-up Experience
+  - [x] Incident
+  - [ ] Incident Communications
+  - [ ] On-call Scheduling
+  - [ ] Problem
+  - [ ] Release
+  - [ ] Request
+  - [ ] Service Catalog
+  - [ ] Service Desk
+  - [ ] Service Level
+  - [ ] Service Portfolio
+  - [ ] Vendor Performance
+- [ ] Service Management
+  - [ ] Planned Maintenance
+  - [ ] Facilities
+  - [ ] Finance
+  - [ ] Legal
+  - [ ] Marketing
+  - [ ] Coaching Loops
+  - [ ] Structured Problem Analysis
+
 ## Contributing
 
 Pull requests are welcome. For major changes, 
