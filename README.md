@@ -17,59 +17,51 @@ Tests will exist for and already exist for some of servicenow.
 Below is the suite hierarcy.  If checked done.
 
 - [ ] API Testing
-- [ ] HR Service Delivery
-  - [ ] Case and Knowledge
-  - [ ] Employee Service Center
-  - [ ] Enterpise Onboarding and Transistions
-  - [ ] Employee Document
-  - [ ] HR Integrations
 - [ ] Customer Service Management
-  - [ ] Customer Service
   - [ ] Communities
+  - [ ] Customer Service
   - [ ] Field Service
 - [ ] Governance, Risk , and Compliance (GRC)
+  - [ ] Audit
   - [ ] Policy and Compliance
   - [ ] Risk
-  - [ ] Audit
   - [ ] Vendor Risk
-- [ ] Software Asset Management
-- [ ] Security Operations
-  - [ ] Security Incident Response
-  - [ ] Vulnerability Response
-  - [ ] Configuration Compliance
-  - [ ] Threat Intelligence
-  - [ ] Trusted Security Circles
+- [ ] HR Service Delivery
+  - [ ] Case and Knowledge
+  - [ ] Employee Document
+  - [ ] Employee Service Center
+  - [ ] Enterpise Onboarding and Transistions
+  - [ ] HR Integrations
 - [ ] IT Business Management
-  - [ ] Project Portfolio
-  - [ ] Financial
-  - [ ] Time Card
-  - [ ] Enterprise Release Management
   - [ ] Agile Development
-  - [ ] Scaled Agile Frameworkf (SAFe)
-  - [ ] Test Management
   - [ ] Business Planning Portal
   - [ ] Cost
+  - [ ] Enterprise Release Management
+  - [ ] Financial
+  - [ ] Project Portfolio
+  - [ ] Scaled Agile Frameworkf (SAFe)
+  - [ ] Test Management
+  - [ ] Time Card
 - [ ] IT Operations Management
+  - [ ] Cloud Management
   - [ ] Discovery
-  - [ ] Service Mapping
   - [ ] Event Management
   - [ ] Operational Intelligence
-  - [ ] Cloud Management
+  - [ ] Service Mapping
 - [ ] IT Service Management
   - [ ] Asset
-  - [ ] Contract
-  - [ ] Procurement
-  - [ ] Product Catalog
   - [ ] Benchmarks
   - [ ] Change
   - [ ] Continual Improvement
+  - [ ] Contract
   - [ ] Expense Line
-  - [ ] ITSM Virtual Agent
-  - [ ] Walk-up Experience
   - [x] Incident
   - [ ] Incident Communications
+  - [ ] ITSM Virtual Agent
   - [ ] On-call Scheduling
   - [ ] Problem
+  - [ ] Procurement
+  - [ ] Product Catalog
   - [ ] Release
   - [ ] Request
   - [ ] Service Catalog
@@ -77,14 +69,22 @@ Below is the suite hierarcy.  If checked done.
   - [ ] Service Level
   - [ ] Service Portfolio
   - [ ] Vendor Performance
+  - [ ] Walk-up Experience
+- [ ] Security Operations
+  - [ ] Configuration Compliance
+  - [ ] Security Incident Response
+  - [ ] Threat Intelligence
+  - [ ] Trusted Security Circles
+  - [ ] Vulnerability Response
 - [ ] Service Management
-  - [ ] Planned Maintenance
+  - [ ] Coaching Loops
   - [ ] Facilities
   - [ ] Finance
   - [ ] Legal
   - [ ] Marketing
-  - [ ] Coaching Loops
+  - [ ] Planned Maintenance
   - [ ] Structured Problem Analysis
+- [ ] Software Asset Management
 
 ## Contributing
 
