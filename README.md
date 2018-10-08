@@ -18,3 +18,17 @@ You'll need to take the following steps to contribute.
 * Go back to the standard UI as Test aren't listed in the Studio editor
 * Goto automated test, and create Suites and tests as appropriate
 
+## Resources
+
+* If you need to `set fields` but cannot find you're field, this script might be useful;
+  ```js
+  var gr = new GlideRecord('sys_atf_step');
+  gr.get('f1a43c15db0123008096a455ca961915');
+  var fields = gr.inputs.field_values.toString();
+  gs.info(fields);
+  fields = fields.replace('^EQ','^kb_knowledge_base=dfc19531bf2021003f07e2c1ac0739ab^EQ');
+  gs.info(fields);
+  gr.inputs.field_values = fields;
+  gr.update();
+  ```
+* [Issues](https://github.com/jacebenson/x_8821_atf/issues)
