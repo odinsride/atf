@@ -74,4 +74,4 @@
 - [ ] Test Thing 1
 - [ ] Test Thing 2
 
-Follow the [contributing guide](https://github.com/jacebenson/x_8821_atf/blob/gh-pages/CONTRIBUTING.md) to contribute.
+Follow the [README](https://atf.jacebenson.com/#contributing) to contribute.

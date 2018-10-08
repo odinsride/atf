@@ -16,75 +16,93 @@ Tests will exist for and already exist for some of servicenow.
 
 Below is the suite hierarcy.  If checked done.
 
-- [ ] API Testing
-- [ ] Customer Service Management
-  - [ ] Communities
-  - [ ] Customer Service
-  - [ ] Field Service
-- [ ] Governance, Risk , and Compliance (GRC)
-  - [ ] Audit
-  - [ ] Policy and Compliance
-  - [ ] Risk
-  - [ ] Vendor Risk
-- [ ] HR Service Delivery
-  - [ ] Case and Knowledge
-  - [ ] Employee Document
-  - [ ] Employee Service Center
-  - [ ] Enterpise Onboarding and Transistions
-  - [ ] HR Integrations
-- [ ] IT Business Management
-  - [ ] Agile Development
-  - [ ] Business Planning Portal
-  - [ ] Cost
-  - [ ] Enterprise Release Management
-  - [ ] Financial
-  - [ ] Project Portfolio
-  - [ ] Scaled Agile Frameworkf (SAFe)
-  - [ ] Test Management
-  - [ ] Time Card
-- [ ] IT Operations Management
-  - [ ] Cloud Management
-  - [ ] Discovery
-  - [ ] Event Management
-  - [ ] Operational Intelligence
-  - [ ] Service Mapping
-- [ ] IT Service Management
-  - [ ] Asset
-  - [ ] Benchmarks
-  - [ ] Change
-  - [ ] Continual Improvement
-  - [ ] Contract
-  - [ ] Expense Line
+- API Testing
+ - [Agent Intelligence](https://github.com/jacebenson/x_8821_atf/issues/1)
+ - [Aggregate API](https://github.com/jacebenson/x_8821_atf/issues/2)
+ - [Application Service API](https://github.com/jacebenson/x_8821_atf/issues/3)
+ - [Attachment API](https://github.com/jacebenson/x_8821_atf/issues/4)
+ - [CI Lifecycle Mangement API](https://github.com/jacebenson/x_8821_atf/issues/5)
+ - [Clotho Time Series API](https://github.com/jacebenson/x_8821_atf/issues/6)
+ - [CMDB Instance API](https://github.com/jacebenson/x_8821_atf/issues/7)
+ - [CMDB Meta API](https://github.com/jacebenson/x_8821_atf/issues/8)
+ - [Email API](https://github.com/jacebenson/x_8821_atf/issues/29)
+ - [IdentifyReconcile API](https://github.com/jacebenson/x_8821_atf/issues/9)
+ - [Import Set API](https://github.com/jacebenson/x_8821_atf/issues/28)
+ - [Interaction Management API](https://github.com/jacebenson/x_8821_atf/issues/10)
+ - [Major Incident Management API](https://github.com/jacebenson/x_8821_atf/issues/11)
+ - [Performance Analytics API](https://github.com/jacebenson/x_8821_atf/issues/12)
+ - [Service Catalog API](https://github.com/jacebenson/x_8821_atf/issues/13)
+ - [Table API](https://github.com/jacebenson/x_8821_atf/issues/14)
+ - [Task Communication Management API](https://github.com/jacebenson/x_8821_atf/issues/15)
+ - [User Role Maintenance API](https://github.com/jacebenson/x_8821_atf/issues/16)
+- Customer Service Management
+  - Communities
+  - Customer Service
+  - Field Service
+- Governance, Risk , and Compliance (GRC)
+  - [Audit](https://github.com/jacebenson/x_8821_atf/issues/25)
+  - Policy and Compliance
+  - [Risk](https://github.com/jacebenson/x_8821_atf/issues/33)
+  - [Vendor Risk](https://github.com/jacebenson/x_8821_atf/issues/34)
+- HR Service Delivery
+  - Case and Knowledge
+  - Employee Document
+  - Employee Service Center
+  - Enterpise Onboarding and Transistions
+  - HR Integrations
+- IT Business Management
+  - Agile Development
+  - Business Planning Portal
+  - Cost
+  - Enterprise Release Management
+  - Financial
+  - Project Portfolio
+  - Scaled Agile Frameworkf (SAFe)
+  - Test Management
+  - Time Card
+- IT Operations Management
+  - Cloud Management
+  - Discovery
+  - Event Management
+  - Operational Intelligence
+  - Service Mapping
+- IT Service Management
+  - [Asset](https://github.com/jacebenson/x_8821_atf/issues/30)
+  - Benchmarks
+  - [Change](https://github.com/jacebenson/x_8821_atf/issues/19)
+  - Continual Improvement
+  - Contract
+  - Expense Line
   - [x] Incident
-  - [ ] Incident Communications
-  - [ ] ITSM Virtual Agent
-  - [ ] On-call Scheduling
-  - [ ] Problem
-  - [ ] Procurement
-  - [ ] Product Catalog
-  - [ ] Release
-  - [ ] Request
-  - [ ] Service Catalog
-  - [ ] Service Desk
-  - [ ] Service Level
-  - [ ] Service Portfolio
-  - [ ] Vendor Performance
-  - [ ] Walk-up Experience
-- [ ] Security Operations
-  - [ ] Configuration Compliance
-  - [ ] Security Incident Response
-  - [ ] Threat Intelligence
-  - [ ] Trusted Security Circles
-  - [ ] Vulnerability Response
-- [ ] Service Management
-  - [ ] Coaching Loops
-  - [ ] Facilities
-  - [ ] Finance
-  - [ ] Legal
-  - [ ] Marketing
-  - [ ] Planned Maintenance
-  - [ ] Structured Problem Analysis
-- [ ] Software Asset Management
+  - [Incident Communications](https://github.com/jacebenson/x_8821_atf/issues/18)
+  - ITSM Virtual Agent
+  - On-call Scheduling
+  - [Problem](https://github.com/jacebenson/x_8821_atf/issues/20)
+  - Procurement
+  - Product Catalog
+  - Release
+  - [Request](https://github.com/jacebenson/x_8821_atf/issues/21)
+  - [Service Catalog](https://github.com/jacebenson/x_8821_atf/issues/22)
+  - Service Desk
+  - Service Level
+  - Service Portfolio
+  - Vendor Performance
+  - Walk-up Experience
+- Security Operations
+  - Configuration Compliance
+  - Security Incident Response
+  - Threat Intelligence
+  - Trusted Security Circles
+  - Vulnerability Response
+- Service Management
+  - Coaching Loops
+  - Facilities
+  - Finance
+  - Legal
+  - Marketing
+  - Planned Maintenance
+  - Structured Problem Analysis
+- [Software Asset Management](https://github.com/jacebenson/x_8821_atf/issues/26)
 
 ## Contributing
 
