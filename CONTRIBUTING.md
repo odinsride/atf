@@ -17,5 +17,6 @@ Than Request a Personal Developer Instance.
 1.  Comment on the issue
 2.  Ensure you're in the OOB Automated Testing application
 3.  Create the tests and suites appropriate to test the application
+4.  Put your tests in the appropriate suites
 4.  Commit your repo
 5.  Comeback onto github, and make a Pull Request from your repo.
