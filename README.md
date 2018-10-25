@@ -9,6 +9,12 @@ servicenow applications.
 
 ## Installation
 
+Due to this being a Scoped Application, to make this work with simplifying tests,
+one modification must be made in Global Scope.  On 
+`/sys_db_object.do?sysparm_query=name=sys_user_group`
+under "Application Access", check "Can create", "Can update", "Can delete", and
+save.
+
 * servicenow instance London or newer
 * Import `https://github.com/jacebenson/x_8821_atf.git` 
   to source control within Studio.
