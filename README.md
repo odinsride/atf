@@ -158,6 +158,12 @@ Than Request a Personal Developer Instance.
 
 ### Setting up the repo
 
+Due to this being a Scoped Application, to make this work with simplifying tests,
+one modification must be made in Global Scope.  On 
+`/sys_db_object.do?sysparm_query=name=sys_user_group`
+under "Application Access", check "Can create", "Can update", "Can delete", and
+save.
+
 1.  Fork this project
 2.  Log into your PDI
 3.  Open Studio
