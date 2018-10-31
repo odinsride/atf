@@ -70,11 +70,11 @@ Below is the suite hierarcy.  If checked done.
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/53.svg)](https://github.com/jacebenson/x_8821_atf/issues/53) Test Management
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/54.svg)](https://github.com/jacebenson/x_8821_atf/issues/54) Time Card
 - IT Operations Management
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/55.svg)](https://github.com/jacebenson/x_8821_atf/issues/55) Cloud Management
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/56.svg)](https://github.com/jacebenson/x_8821_atf/issues/56) Discovery
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/57.svg)](https://github.com/jacebenson/x_8821_atf/issues/57) Event Management
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/58.svg)](https://github.com/jacebenson/x_8821_atf/issues/58) Operational Intelligence
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/59.svg)](https://github.com/jacebenson/x_8821_atf/issues/59) Service Mapping
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/55.svg)](https://github.com/jacebenson/x_8821_atf/issues/55) Cloud Management (Will require active accounts on azure/aws to test)
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/56.svg)](https://github.com/jacebenson/x_8821_atf/issues/56) Discovery (Will require setting up a mid, and other infrastructure to test)
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/57.svg)](https://github.com/jacebenson/x_8821_atf/issues/57) Event Management (Unsure how to test)
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/58.svg)](https://github.com/jacebenson/x_8821_atf/issues/58) Operational Intelligence (Unsure how to test)
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/59.svg)](https://github.com/jacebenson/x_8821_atf/issues/59) Service Mapping (Unsure how to test)
 - IT Service Management
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/30.svg)](https://github.com/jacebenson/x_8821_atf/issues/30) Asset
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/60.svg)](https://github.com/jacebenson/x_8821_atf/issues/60) Benchmarks
@@ -101,12 +101,12 @@ Below is the suite hierarcy.  If checked done.
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/74.svg)](https://github.com/jacebenson/x_8821_atf/issues/74) Agent Intelligence
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/75.svg)](https://github.com/jacebenson/x_8821_atf/issues/75) CMDB
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/76.svg)](https://github.com/jacebenson/x_8821_atf/issues/76) Compliance
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/77.svg)](https://github.com/jacebenson/x_8821_atf/issues/77) Connect
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/77.svg)](https://github.com/jacebenson/x_8821_atf/issues/77) Connect (Unsure how to test)
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/78.svg)](https://github.com/jacebenson/x_8821_atf/issues/78) Content Management System
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/79.svg)](https://github.com/jacebenson/x_8821_atf/issues/79) Data Certification
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/80.svg)](https://github.com/jacebenson/x_8821_atf/issues/80) Dependency Views
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/81.svg)](https://github.com/jacebenson/x_8821_atf/issues/81) Flow Designer
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/82.svg)](https://github.com/jacebenson/x_8821_atf/issues/82) IntegrationHub
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/81.svg)](https://github.com/jacebenson/x_8821_atf/issues/81) Flow Designer (Unsure how to test)
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/82.svg)](https://github.com/jacebenson/x_8821_atf/issues/82) IntegrationHub (Unsure how to test)
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/83.svg)](https://github.com/jacebenson/x_8821_atf/issues/83) Interaction Management
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/84.svg)](https://github.com/jacebenson/x_8821_atf/issues/84) Knowledge Management
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/85.svg)](https://github.com/jacebenson/x_8821_atf/issues/85) Live Feed
@@ -114,16 +114,16 @@ Below is the suite hierarcy.  If checked done.
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/87.svg)](https://github.com/jacebenson/x_8821_atf/issues/87) MetricBase
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/88.svg)](https://github.com/jacebenson/x_8821_atf/issues/88) Notifications
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/89.svg)](https://github.com/jacebenson/x_8821_atf/issues/89) Notify
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/90.svg)](https://github.com/jacebenson/x_8821_atf/issues/90) Orchestration
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/91.svg)](https://github.com/jacebenson/x_8821_atf/issues/91) Password Reset
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/90.svg)](https://github.com/jacebenson/x_8821_atf/issues/90) Orchestration (Unsure how to test)
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/91.svg)](https://github.com/jacebenson/x_8821_atf/issues/91) Password Reset (Unsure how to test)
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/92.svg)](https://github.com/jacebenson/x_8821_atf/issues/92) Service Administration
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/93.svg)](https://github.com/jacebenson/x_8821_atf/issues/93) Service Portal
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/95.svg)](https://github.com/jacebenson/x_8821_atf/issues/95) Subscription Management
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/94.svg)](https://github.com/jacebenson/x_8821_atf/issues/94) Survey Management
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/94.svg)](https://github.com/jacebenson/x_8821_atf/issues/94) Survey Management (Unsure how to test)
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/96.svg)](https://github.com/jacebenson/x_8821_atf/issues/96) Task Communication Management
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/97.svg)](https://github.com/jacebenson/x_8821_atf/issues/97) Virtual Agent
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/98.svg)](https://github.com/jacebenson/x_8821_atf/issues/98) Visual Task Boards
-  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/99.svg)](https://github.com/jacebenson/x_8821_atf/issues/99) Workflow
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/97.svg)](https://github.com/jacebenson/x_8821_atf/issues/97) Virtual Agent (Unsure how to test)
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/98.svg)](https://github.com/jacebenson/x_8821_atf/issues/98) Visual Task Boards (Unsure how to test)
+  - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/99.svg)](https://github.com/jacebenson/x_8821_atf/issues/99) Workflow (Unsure how to test)
 - Security Operations
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/100.svg)](https://github.com/jacebenson/x_8821_atf/issues/100) Configuration Compliance
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/101.svg)](https://github.com/jacebenson/x_8821_atf/issues/101) Security Incident Response
