@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-# OOB Automated Testing [![Discord](https://img.shields.io/discord/289994252241338369.svg)](https://discord.gg/QaMwnGd) ![GitHub issues](https://img.shields.io/github/issues/jacebenson/x_8821_atf.svg) [![GitHub forks](https://img.shields.io/github/forks/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/network) [![GitHub stars](https://img.shields.io/github/stars/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/stargazers) [![GitHub pull requests](https://img.shields.io/github/issues-pr/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/pulls/)
+# OOB Automated Testing
+[![Discord](https://img.shields.io/discord/289994252241338369.svg)](https://discord.gg/QaMwnGd)
+[![GitHub issues](https://img.shields.io/github/issues/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/issues)
+[![GitHub forks](https://img.shields.io/github/forks/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/network)
+[![GitHub stars](https://img.shields.io/github/stars/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/stargazers) 
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/pulls/)
 
 OOB Automated Testing is a scoped app to capture tests for all the Out of Box 
 servicenow applications.  With this you have a place to start your own tests 
