@@ -3,27 +3,40 @@ layout: default
 ---
 # OOB Automated Testing [![Discord](https://img.shields.io/discord/289994252241338369.svg)](https://discord.gg/QaMwnGd) ![GitHub issues](https://img.shields.io/github/issues/jacebenson/x_8821_atf.svg) [![GitHub forks](https://img.shields.io/github/forks/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/network) [![GitHub stars](https://img.shields.io/github/stars/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/stargazers) [![GitHub pull requests](https://img.shields.io/github/issues-pr/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/pulls/)
 
-OOB Automated Testing is a scoped app to 
-capture tests for all the Out of Box 
-servicenow applications.
+OOB Automated Testing is a scoped app to capture tests for all the Out of Box 
+servicenow applications.  With this you have a place to start your own tests 
+instead of starting from scratch.  Once installed you'll be able to run a batch
+of tests against the instance.  One key detail about all of these tests, they
+are all self-contained.  Meaning, you don't need to load up any demo users,
+companies or groups to try these tests.  They are all included in this scoped
+application.  
+![Demo](/assets/demo.gif)
 
 ## Installation
 
-Due to this being a Scoped Application, to make this work with simplifying tests,
-one modification must be made in Global Scope.  On 
-`/sys_db_object.do?sysparm_query=name=sys_user_group`
-under "Application Access", check "Can create", "Can update", "Can delete", and
-save.
+If you just want to try it out, follow these steps;
 
-* servicenow instance London or newer
-* Import `https://github.com/jacebenson/x_8821_atf.git` 
-  to source control within Studio.
+1. Due to this being a Scoped Application, to make this work with simplifying 
+   tests, one modification must be made in Global Scope.  On 
+   `/sys_db_object.do?sysparm_query=name=sys_user_group`
+   under "Application Access", check "Can create", "Can update", "Can delete", 
+   and save.
+   ![Update Group Permission](/assets/group-permissions.gif)
+2. Import `https://github.com/jacebenson/x_8821_atf.git` to source control 
+   within Studio.
 
-## Features
+## Usage
 
-Tests will exist for and already exist for some of servicenow.
+After it's installed you can run the tests by going to Test Suites, OOB Tests
+and then run it.  
 
-Below is the suite hierarcy.  If checked done.
+### Features
+
+Below is the desired organization of test suites.  Some of these are closed 
+because there is no good way to test things.  Some of these are closed because
+someone has done some of the work.  As work continues I'll add notes to these
+issues.  A key feature of these tests is that they are all self contained.
+Meaning they rely on no outside data.
 
 - API Testing
   - [![Issue](https://img.shields.io/github/issues/detail/s/jacebenson/x_8821_atf/1.svg)](https://github.com/jacebenson/x_8821_atf/issues/1) Agent Intelligence
@@ -143,13 +156,11 @@ Below is the suite hierarcy.  If checked done.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, 
-please open an issue first to discuss what you 
-would like to change.
+Pull requests are welcome. For major changes, please open an issue first to 
+discuss what you would like to change.
 
-I'd suggest starting on an [issue that seems well made](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
-
-However there are a lot of issues for everything I could find in servicenow.  If you know that application feel free to fill out the issue and comment on it.
+However there are a lot of issues for everything I could find in servicenow.
+If you know that application feel free to fill out the issue and comment on it.
 
 ### Setting up a pdi (personal developer instance)
 
@@ -158,25 +169,24 @@ Than Request a Personal Developer Instance.
 
 ### Setting up the repo
 
-Due to this being a Scoped Application, to make this work with simplifying tests,
-one modification must be made in Global Scope.  On 
-`/sys_db_object.do?sysparm_query=name=sys_user_group`
-under "Application Access", check "Can create", "Can update", "Can delete", and
-save.
-
 1.  [Fork this project](https://github.com/jacebenson/x_8821_atf/fork)
-2.  Log into your PDI
-3.  Open Studio
-4.  Import your Forked Repo's `https` url
+2.  Follow the [installation](#installation) steps, but use your repository.
 
 ### Actually Contributing
 
-1.  Comment on the issue
-2.  Ensure you're in the OOB Automated Testing application
-3.  Create the tests and suites appropriate to test the application
-4.  Put your tests in the appropriate suites
-4.  Commit your repo
-5.  Comeback onto github, and make a Pull Request from your repo.
+1.  Fork it (https://github.com/jacebenson/x_8821_atf/fork)
+2.  Install it from source 
+    ![](/assets/install-application.png)
+3.  Create your feature branch
+    ![](/assets/create-feature-branch.png)
+3.  Do you changes.  Things to remember, your username from your instance will
+    show up as who made the changes, so leave it admin, or make it custom but
+    don't make it something you'll regret.
+4.  Commit your changes
+    ![](/assets/commit-changes-1.png)
+    ![](/assets/commit-changes-2.png)
+5.  Push to the branch
+6.  Create a new Pull Request
 
 ## Resources
 
