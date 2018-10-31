@@ -26,24 +26,24 @@ Tests will exist for and already exist for some of servicenow.
 Below is the suite hierarcy.  If checked done.
 
 - API Testing
-  - [Agent Intelligence](https://github.com/jacebenson/x_8821_atf/issues/1)
-  - [Aggregate API](https://github.com/jacebenson/x_8821_atf/issues/2)
-  - [Application Service API](https://github.com/jacebenson/x_8821_atf/issues/3)
-  - [Attachment API](https://github.com/jacebenson/x_8821_atf/issues/4)
-  - [CI Lifecycle Mangement API](https://github.com/jacebenson/x_8821_atf/issues/5)
-  - [Clotho Time Series API](https://github.com/jacebenson/x_8821_atf/issues/6)
-  - [CMDB Instance API](https://github.com/jacebenson/x_8821_atf/issues/7)
-  - [CMDB Meta API](https://github.com/jacebenson/x_8821_atf/issues/8)
-  - [Email API](https://github.com/jacebenson/x_8821_atf/issues/29)
-  - [IdentifyReconcile API](https://github.com/jacebenson/x_8821_atf/issues/9)
-  - [Import Set API](https://github.com/jacebenson/x_8821_atf/issues/28)
-  - [Interaction Management API](https://github.com/jacebenson/x_8821_atf/issues/10)
-  - [Major Incident Management API](https://github.com/jacebenson/x_8821_atf/issues/11)
-  - [Performance Analytics API](https://github.com/jacebenson/x_8821_atf/issues/12)
-  - [Service Catalog API](https://github.com/jacebenson/x_8821_atf/issues/13)
-  - [Table API](https://github.com/jacebenson/x_8821_atf/issues/14)
-  - [Task Communication Management API](https://github.com/jacebenson/x_8821_atf/issues/15)
-  - [User Role Maintenance API](https://github.com/jacebenson/x_8821_atf/issues/16)
+  - [Agent Intelligence](https://github.com/jacebenson/x_8821_atf/issues/1) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/1.svg)](https://github.com/jacebenson/x_8821_atf/issue/1)
+  - [Aggregate API](https://github.com/jacebenson/x_8821_atf/issues/2) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/2.svg)](https://github.com/jacebenson/x_8821_atf/issue/2)
+  - [Application Service API](https://github.com/jacebenson/x_8821_atf/issues/3) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/3.svg)](https://github.com/jacebenson/x_8821_atf/issue/3)
+  - [Attachment API](https://github.com/jacebenson/x_8821_atf/issues/4) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/4.svg)](https://github.com/jacebenson/x_8821_atf/issue/4)
+  - [CI Lifecycle Mangement API](https://github.com/jacebenson/x_8821_atf/issues/5) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/5.svg)](https://github.com/jacebenson/x_8821_atf/issue/5)
+  - [Clotho Time Series API](https://github.com/jacebenson/x_8821_atf/issues/6) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/6.svg)](https://github.com/jacebenson/x_8821_atf/issue/6)
+  - [CMDB Instance API](https://github.com/jacebenson/x_8821_atf/issues/7) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/7.svg)](https://github.com/jacebenson/x_8821_atf/issue/7)
+  - [CMDB Meta API](https://github.com/jacebenson/x_8821_atf/issues/8) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/8.svg)](https://github.com/jacebenson/x_8821_atf/issue/8)
+  - [Email API](https://github.com/jacebenson/x_8821_atf/issues/29) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/29.svg)](https://github.com/jacebenson/x_8821_atf/issue/29)
+  - [IdentifyReconcile API](https://github.com/jacebenson/x_8821_atf/issues/9) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/9.svg)](https://github.com/jacebenson/x_8821_atf/issue/9)
+  - [Import Set API](https://github.com/jacebenson/x_8821_atf/issues/28) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/28.svg)](https://github.com/jacebenson/x_8821_atf/issue/28)
+  - [Interaction Management API](https://github.com/jacebenson/x_8821_atf/issues/10) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/10.svg)](https://github.com/jacebenson/x_8821_atf/issue/10)
+  - [Major Incident Management API](https://github.com/jacebenson/x_8821_atf/issues/11) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/11.svg)](https://github.com/jacebenson/x_8821_atf/issue/11)
+  - [Performance Analytics API](https://github.com/jacebenson/x_8821_atf/issues/12) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/12.svg)](https://github.com/jacebenson/x_8821_atf/issue/12)
+  - [Service Catalog API](https://github.com/jacebenson/x_8821_atf/issues/13) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/13.svg)](https://github.com/jacebenson/x_8821_atf/issue/13)
+  - [Table API](https://github.com/jacebenson/x_8821_atf/issues/14) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/14.svg)](https://github.com/jacebenson/x_8821_atf/issue/14)
+  - [Task Communication Management API](https://github.com/jacebenson/x_8821_atf/issues/15) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/15.svg)](https://github.com/jacebenson/x_8821_atf/issue/15)
+  - [User Role Maintenance API](https://github.com/jacebenson/x_8821_atf/issues/16) [![GitHub issue/pull request label](https://img.shields.io/github/issues/detail/label/jacebenson/x_8821_atf/16.svg)](https://github.com/jacebenson/x_8821_atf/issue/16)
 - Customer Service Management
   - [Communities](https://github.com/jacebenson/x_8821_atf/issues/37)
   - [Customer Service](https://github.com/jacebenson/x_8821_atf/issues/38)
@@ -164,7 +164,7 @@ one modification must be made in Global Scope.  On
 under "Application Access", check "Can create", "Can update", "Can delete", and
 save.
 
-1.  Fork this project
+1.  [Fork this project](https://github.com/jacebenson/x_8821_atf/fork)
 2.  Log into your PDI
 3.  Open Studio
 4.  Import your Forked Repo's `https` url
