@@ -2,11 +2,11 @@
 layout: default
 ---
 # OOB Automated Testing
-[![Discord](https://img.shields.io/discord/289994252241338369.svg)](https://discord.gg/QaMwnGd)
-[![GitHub issues](https://img.shields.io/github/issues/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/issues)
-[![GitHub forks](https://img.shields.io/github/forks/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/network)
-[![GitHub stars](https://img.shields.io/github/stars/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/stargazers) 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/jacebenson/x_8821_atf.svg)](https://github.com/jacebenson/x_8821_atf/pulls/)
+[![Discord](https://img.shields.io/discord/289994252241338369.svg?style=for-the-badge)](https://discord.gg/QaMwnGd)
+[![GitHub issues](https://img.shields.io/github/issues/jacebenson/x_8821_atf.svg?style=for-the-badge)](https://github.com/jacebenson/x_8821_atf/issues)
+[![GitHub forks](https://img.shields.io/github/forks/jacebenson/x_8821_atf.svg?style=for-the-badge)](https://github.com/jacebenson/x_8821_atf/network)
+[![GitHub stars](https://img.shields.io/github/stars/jacebenson/x_8821_atf.svg?style=for-the-badge)](https://github.com/jacebenson/x_8821_atf/stargazers) 
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/jacebenson/x_8821_atf.svg?style=for-the-badge)](https://github.com/jacebenson/x_8821_atf/pulls/)
 
 OOB Automated Testing is a scoped app to capture tests for all the Out of Box 
 servicenow applications.  With this you have a place to start your own tests 
@@ -45,17 +45,17 @@ Meaning they rely on no outside data.
 
 | Application                             | Issues                                                                                                                                                                                              |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| API Testing                             | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-api.svg?style=for-the-badge&label=API&colorB=red)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-api)       |
-| Customer Service Management             | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-csm.svg?style=for-the-badge&label=CSM&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-csm)       |
-| Governance, Risk , and Compliance (GRC) | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-grc.svg?style=for-the-badge&label=GRC&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-grc)       |
-| HR Service Delivery                     | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-hr.svg?style=for-the-badge&label=HR&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-hr)         |
-| IT Business Management                  | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-itbm.svg?style=for-the-badge&label=ITBM&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-itbm)     |
-| IT Operations Management                | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-itom.svg?style=for-the-badge&label=ITOM&colorB=red)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aissue+label%3Atest-itom)               |
-| IT Service Management                   | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-itsm.svg?style=for-the-badge&label=ITSM&colorB=orange)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-itsm)     |
-| Now Platform                            | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-now.svg?style=for-the-badge&label=NOW&colorB=orange)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-now)       |
+| API Testing                             | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-api.svg?style=for-the-badge&label=API%20%20%20&colorB=red)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-api)       |
+| Customer Service Management             | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-csm.svg?style=for-the-badge&label=CSM%20%20%20&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-csm)       |
+| Governance, Risk , and Compliance (GRC) | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-grc.svg?style=for-the-badge&label=GRC%20%20%20&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-grc)       |
+| HR Service Delivery                     | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-hr.svg?style=for-the-badge&label=HR%20%20%20%20&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-hr)         |
+| IT Business Management                  | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-itbm.svg?style=for-the-badge&label=ITBM%20%20&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-itbm)     |
+| IT Operations Management                | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-itom.svg?style=for-the-badge&label=ITOM%20%20&colorB=red)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aissue+label%3Atest-itom)               |
+| IT Service Management                   | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-itsm.svg?style=for-the-badge&label=ITSM%20%20&colorB=orange)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-itsm)     |
+| Now Platform                            | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-now.svg?style=for-the-badge&label=NOW%20%20%20&colorB=orange)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-now)       |
 | Security Operations                     | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-secops.svg?style=for-the-badge&label=SECOPS&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-secops) |
-| Service Management                      | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-sm.svg?style=for-the-badge&label=SM&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-sm)         |
-| Software Asset Management               | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-sam.svg?style=for-the-badge&label=SAM&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-sam)       |
+| Service Management                      | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-sm.svg?style=for-the-badge&label=SM%20%20%20%20&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-sm)         |
+| Software Asset Management               | [![GitHub issues by-label](https://img.shields.io/github/issues/jacebenson/x_8821_atf/test-sam.svg?style=for-the-badge&label=SAM%20%20%20&colorB=green)](https://github.com/jacebenson/x_8821_atf/issues?q=is%3Aopen+is%3Aissue+label%3Atest-sam)       |
 
  
 
