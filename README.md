@@ -17,6 +17,17 @@ companies or groups to try these tests.  They are all included in this scoped
 application.  
 ![Demo](/assets/demo.gif)
 
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+  * [Features](#features)
+* [Contributing](#contributing)
+  * [Setting up your pdi](#setting-up-a-pdi-personal-developer-instance)
+  * [Setting up the repo](#setting-up-the-repo)
+  * [Actually Contributing](#actually-contributing)
+* [Resources](#resources)
+
 ## Installation
 
 If you just want to try it out, follow these steps;
