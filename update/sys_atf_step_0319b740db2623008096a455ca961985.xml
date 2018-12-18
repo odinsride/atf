@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Insert a record into 'alm_stockroom' with the following values:
+Manager = {{Step 1: Create user with rights.User}}
+and Name = Test Stock Room
+Confirm the record was successfully inserted</description>
+        <display_name>Record Insert</display_name>
+        <inputs/>
+        <inputs/>
+        <order>2</order>
+        <step_config display_value="Record Insert">14872288df60220062fe6c7a4df26319</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:22:13</sys_created_on>
+        <sys_id>0319b740db2623008096a455ca961985</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Record Insert</sys_name>
+        <sys_package display_value="OOB Automated Testing" source="x_8821_atf">29192d90db0123008096a455ca96193d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OOB Automated Testing">29192d90db0123008096a455ca96193d</sys_scope>
+        <sys_update_name>sys_atf_step_0319b740db2623008096a455ca961985</sys_update_name>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:59:49</sys_updated_on>
+        <table>alm_stockroom</table>
+        <test display_value="Procurement - Create Purchase Order">16d7f34cdbe223008096a455ca961945</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=0319b740db2623008096a455ca961985"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0319b740db2623008096a455ca961985</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:22:13</sys_created_on>
+        <sys_id>35493f40db2623008096a455ca96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:22:13</sys_updated_on>
+        <value>alm_stockroom</value>
+        <variable display_value="">90144b535320220002c6435723dc3488</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0319b740db2623008096a455ca961985</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:22:13</sys_created_on>
+        <sys_id>71493f40db2623008096a455ca96199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:22:13</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">e6e3c7535320220002c6435723dc3496</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0319b740db2623008096a455ca961985</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:22:13</sys_created_on>
+        <sys_id>bd493f40db2623008096a455ca96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:22:13</sys_updated_on>
+        <value>record_successfully_inserted</value>
+        <variable display_value="">9024a37f671003007ba405225685efe5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0319b740db2623008096a455ca961985</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:22:13</sys_created_on>
+        <sys_id>f5493f40db2623008096a455ca96199f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:22:39</sys_updated_on>
+        <value>manager={{step['a5f7374cdbe223008096a455ca9619b8'].u_user}}^name=Test Stock Room^EQ</value>
+        <variable display_value="">dd54cf535320220002c6435723dc34fd</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=0319b740db2623008096a455ca961985"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>enforce_security</field>
+        <id>0319b740db2623008096a455ca961985</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:22:13</sys_created_on>
+        <sys_id>fd49fbccdbe223008096a455ca9619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:22:13</sys_updated_on>
+        <table>var__m_atf_input_variable_14872288df60220062fe6c7a4df26319</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>0319b740db2623008096a455ca961985</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:22:13</sys_created_on>
+        <sys_id>7549fbccdbe223008096a455ca9619ec</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:22:39</sys_updated_on>
+        <table>var__m_atf_input_variable_14872288df60220062fe6c7a4df26319</table>
+        <value>manager={{step['a5f7374cdbe223008096a455ca9619b8'].u_user}}^name=Test Stock Room^EQ</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>0319b740db2623008096a455ca961985</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:22:13</sys_created_on>
+        <sys_id>b149fbccdbe223008096a455ca9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:22:13</sys_updated_on>
+        <table>var__m_atf_input_variable_14872288df60220062fe6c7a4df26319</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

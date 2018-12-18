@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Validate record from table 'proc_po_item' matches the following condition:
+Purchase order is not empty
+With a failure timeout of 5 Seconds</description>
+        <display_name>Record Validation</display_name>
+        <inputs/>
+        <inputs/>
+        <order>12</order>
+        <step_config display_value="Record Validation">1f39a288df60220062fe6c7a4df2639d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 20:27:55</sys_created_on>
+        <sys_id>c53808d0db6623008096a455ca9619c1</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Record Validation</sys_name>
+        <sys_package display_value="OOB Automated Testing" source="x_8821_atf">29192d90db0123008096a455ca96193d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OOB Automated Testing">29192d90db0123008096a455ca96193d</sys_scope>
+        <sys_update_name>sys_atf_step_c53808d0db6623008096a455ca9619c1</sys_update_name>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:33:36</sys_updated_on>
+        <table>proc_po_item</table>
+        <test display_value="Procurement - Order Purchase Order">7de1881cdb2623008096a455ca961943</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=c53808d0db6623008096a455ca9619c1"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c53808d0db6623008096a455ca9619c1</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 20:27:56</sys_created_on>
+        <sys_id>185888d0db6623008096a455ca96191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:27:56</sys_updated_on>
+        <value>purchase_orderISNOTEMPTY^EQ</value>
+        <variable display_value="">ff6e125353a0220002c6435723dc3442</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c53808d0db6623008096a455ca9619c1</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 20:27:56</sys_created_on>
+        <sys_id>1c5888d0db6623008096a455ca96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:27:56</sys_updated_on>
+        <value>record_validated</value>
+        <variable display_value="">67400008676003007ba405225685efa4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c53808d0db6623008096a455ca9619c1</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 20:27:56</sys_created_on>
+        <sys_id>545888d0db6623008096a455ca96191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:27:56</sys_updated_on>
+        <value>proc_po_item</value>
+        <variable display_value="">6aad5a575360220002c6435723dc34b0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c53808d0db6623008096a455ca9619c1</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 20:27:56</sys_created_on>
+        <sys_id>905888d0db6623008096a455ca96191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:27:56</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">cbddfa135320220002c6435723dc3415</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c53808d0db6623008096a455ca9619c1</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 20:27:56</sys_created_on>
+        <sys_id>dc5888d0db6623008096a455ca96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:27:56</sys_updated_on>
+        <value/>
+        <variable display_value="">52ed1e5b5360220002c6435723dc3421</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=c53808d0db6623008096a455ca9619c1"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>enforce_security</field>
+        <id>c53808d0db6623008096a455ca9619c1</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 20:27:56</sys_created_on>
+        <sys_id>145888d0db6623008096a455ca96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:27:56</sys_updated_on>
+        <table>var__m_atf_input_variable_1f39a288df60220062fe6c7a4df2639d</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>c53808d0db6623008096a455ca9619c1</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 20:27:56</sys_created_on>
+        <sys_id>985888d0db6623008096a455ca96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:27:56</sys_updated_on>
+        <table>var__m_atf_input_variable_1f39a288df60220062fe6c7a4df2639d</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record_id</field>
+        <id>c53808d0db6623008096a455ca9619c1</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 20:27:56</sys_created_on>
+        <sys_id>505888d0db6623008096a455ca96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:27:56</sys_updated_on>
+        <table>var__m_atf_input_variable_1f39a288df60220062fe6c7a4df2639d</table>
+        <value>{{step['8872c05cdb2623008096a455ca96191b'].record_id}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>c53808d0db6623008096a455ca9619c1</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 20:27:56</sys_created_on>
+        <sys_id>d45888d0db6623008096a455ca96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 20:27:56</sys_updated_on>
+        <table>var__m_atf_input_variable_1f39a288df60220062fe6c7a4df2639d</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

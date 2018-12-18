@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Set the values on the form as follows:
+Ship to = {{Step 2: Record Insert.Record}}
+and Short description = PO Order</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <inputs/>
+        <order>7</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:36:28</sys_created_on>
+        <sys_id>c76cfb04db2623008096a455ca9619b4</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="OOB Automated Testing" source="x_8821_atf">29192d90db0123008096a455ca96193d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OOB Automated Testing">29192d90db0123008096a455ca96193d</sys_scope>
+        <sys_update_name>sys_atf_step_c76cfb04db2623008096a455ca9619b4</sys_update_name>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:59:49</sys_updated_on>
+        <table>proc_po</table>
+        <test display_value="Procurement - Create Purchase Order">16d7f34cdbe223008096a455ca961945</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=c76cfb04db2623008096a455ca9619b4"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c76cfb04db2623008096a455ca9619b4</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:36:28</sys_created_on>
+        <sys_id>e28c7b80db2623008096a455ca9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:36:28</sys_updated_on>
+        <value>ship_to={{step['0319b740db2623008096a455ca961985'].record_id}}^short_description=PO Order^EQ</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c76cfb04db2623008096a455ca9619b4</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:36:28</sys_created_on>
+        <sys_id>ee8c7b80db2623008096a455ca9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:36:28</sys_updated_on>
+        <value>proc_po</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=c76cfb04db2623008096a455ca9619b4"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>c76cfb04db2623008096a455ca9619b4</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:36:28</sys_created_on>
+        <sys_id>6e8c7b80db2623008096a455ca9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:36:28</sys_updated_on>
+        <table>var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e</table>
+        <value>ship_to={{step['0319b740db2623008096a455ca961985'].record_id}}^short_description=PO Order^EQ</value>
+    </sys_element_mapping>
+</record_update>

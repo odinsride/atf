@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Insert a record into 'cmdb_consumable_product_model' with the following values:
+Manufacturer = {{Step 3: Record Insert.Record}}
+and Name = USB Cable
+and Short description = USB Cable Short Desc
+and Status = In Production
+Confirm the record was successfully inserted</description>
+        <display_name>Record Insert</display_name>
+        <inputs/>
+        <inputs/>
+        <order>4</order>
+        <step_config display_value="Record Insert">14872288df60220062fe6c7a4df26319</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:33:08</sys_created_on>
+        <sys_id>ff5bfbc0db2623008096a455ca961923</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Record Insert</sys_name>
+        <sys_package display_value="OOB Automated Testing" source="x_8821_atf">29192d90db0123008096a455ca96193d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OOB Automated Testing">29192d90db0123008096a455ca96193d</sys_scope>
+        <sys_update_name>sys_atf_step_ff5bfbc0db2623008096a455ca961923</sys_update_name>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:59:49</sys_updated_on>
+        <table>cmdb_consumable_product_model</table>
+        <test display_value="Procurement - Create Purchase Order">16d7f34cdbe223008096a455ca961945</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=ff5bfbc0db2623008096a455ca961923"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ff5bfbc0db2623008096a455ca961923</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:33:08</sys_created_on>
+        <sys_id>39cbb304db2623008096a455ca9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:33:08</sys_updated_on>
+        <value>1</value>
+        <variable display_value="">e6e3c7535320220002c6435723dc3496</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ff5bfbc0db2623008096a455ca961923</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:33:08</sys_created_on>
+        <sys_id>75cbb304db2623008096a455ca9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:33:08</sys_updated_on>
+        <value>record_successfully_inserted</value>
+        <variable display_value="">9024a37f671003007ba405225685efe5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ff5bfbc0db2623008096a455ca961923</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:33:08</sys_created_on>
+        <sys_id>bdcbb304db2623008096a455ca9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:33:08</sys_updated_on>
+        <value>manufacturer={{step['187a7f80db2623008096a455ca961931'].record_id}}^name=USB Cable^short_description=USB Cable Short Desc^status=In Production^EQ</value>
+        <variable display_value="">dd54cf535320220002c6435723dc34fd</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>ff5bfbc0db2623008096a455ca961923</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:33:08</sys_created_on>
+        <sys_id>f9cbb304db2623008096a455ca9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:33:08</sys_updated_on>
+        <value>cmdb_consumable_product_model</value>
+        <variable display_value="">90144b535320220002c6435723dc3488</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=ff5bfbc0db2623008096a455ca961923"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>enforce_security</field>
+        <id>ff5bfbc0db2623008096a455ca961923</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:33:08</sys_created_on>
+        <sys_id>7dcbb304db2623008096a455ca9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:33:08</sys_updated_on>
+        <table>var__m_atf_input_variable_14872288df60220062fe6c7a4df26319</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>ff5bfbc0db2623008096a455ca961923</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:33:08</sys_created_on>
+        <sys_id>f1cbb304db2623008096a455ca9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:33:08</sys_updated_on>
+        <table>var__m_atf_input_variable_14872288df60220062fe6c7a4df26319</table>
+        <value>manufacturer={{step['187a7f80db2623008096a455ca961931'].record_id}}^name=USB Cable^short_description=USB Cable Short Desc^status=In Production^EQ</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>ff5bfbc0db2623008096a455ca961923</id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2018-12-18 19:33:08</sys_created_on>
+        <sys_id>31cbb304db2623008096a455ca9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2018-12-18 19:33:08</sys_updated_on>
+        <table>var__m_atf_input_variable_14872288df60220062fe6c7a4df26319</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>
