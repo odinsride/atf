@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="user_criteria">
+    <user_criteria action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <company/>
+        <department/>
+        <group/>
+        <location/>
+        <match_all>false</match_all>
+        <name>Admins</name>
+        <role name="admin">2831a114c611228501d4ea6c309d626d</role>
+        <script/>
+        <sys_class_name>user_criteria</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2019-03-29 04:38:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ca77f4e4db2473007d159235ca9619e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Admins</sys_name>
+        <sys_package display_value="ATF" source="x_8821_atf">29192d90db0123008096a455ca96193d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF">29192d90db0123008096a455ca96193d</sys_scope>
+        <sys_update_name>user_criteria_ca77f4e4db2473007d159235ca9619e1</sys_update_name>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2019-03-29 04:38:17</sys_updated_on>
+        <user/>
+    </user_criteria>
+</record_update>

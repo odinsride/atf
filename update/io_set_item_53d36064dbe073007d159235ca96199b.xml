@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>6000</order>
+        <sc_cat_item display_value="Copy of Test Item">4ad32064dbe073007d159235ca961902</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2019-03-29 03:12:21</sys_created_on>
+        <sys_id>53d36064dbe073007d159235ca96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Multirow Variable Set.Copy of Test Item</sys_name>
+        <sys_package display_value="ATF" source="x_8821_atf">29192d90db0123008096a455ca96193d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATF">29192d90db0123008096a455ca96193d</sys_scope>
+        <sys_update_name>io_set_item_53d36064dbe073007d159235ca96199b</sys_update_name>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2019-03-29 03:12:21</sys_updated_on>
+        <variable_set display_value="Multirow Variable Set">d689d0e30f2b5300fc69cdbce1050e2b</variable_set>
+    </io_set_item>
+</record_update>
